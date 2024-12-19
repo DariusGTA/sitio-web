@@ -1,0 +1,127 @@
+body {
+    background-image: url(/sitio-web/fondo-cisco.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    /*background-color: #ff0000;*/
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ff0101;
+    /*color: #333;*/
+}
+
+header {
+    /*background-color: #4CAF50;*/
+    color: rgb(248, 0, 0);
+    text-align: center;
+    padding: 20px;
+    /*background-color: #4CAF50;*/
+    color: rgb(255, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+
+.logo-container {
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 100px; 
+}
+
+#contaco {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#contacto h2 {
+    color: #ff0000;
+}
+
+#informacion {
+    padding: 20px;
+    /*background-color: white;*/
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#informacion h2 {
+    color: #ff0000;
+}
+
+h1, h2 {
+    font-size: 2em;
+}
+
+#info-personal, #contacto {
+    /*background-color: white;*/
+    margin: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#caracteristicas {
+    padding: 20px;
+    /*background-color: white;*/
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#caracteristicas h2 {
+    color: #ff0000;
+}
+
+#caracteristicas ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#caracteristicas li {
+    padding: 5px;
+    margin: 5px 0;
+}
+
+
+#logo-personal {
+    padding: 20px;
+    text-align: center;
+}
+
+#logo-personal h2 {
+    color: #ff0000;
+}
+
+.logo-personal {
+    width: 150px; 
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff0000;
+}
+
+#mensaje {
+    margin-top: 10px;
+    font-style: italic;
+    color: #ffffff;
+}
